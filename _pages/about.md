@@ -5,16 +5,16 @@ permalink: /
 subtitle:
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>yik_siu_chan [at] brown [dot] edu</p>
-    <p>Providence, RI, USA</p>
+    
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as “selected={true}”
 social: true # includes social icons at the bottom of the page
 ---
-Hi! My name is Yik Siu, and I am a first-year master’s student at Brown University. My research interests lie in evaluating and interpretating large language models, with a focus on their potentially dangerous capabiltiies and alignment with human values.
+Hi! My name is Yik Siu, and I am a first-year master’s student at [Brown University](https://www.brown.edu/). My research interests lie in evaluating and interpretating large language models, with a focus on their potentially dangerous capabiltiies and alignment with human values.
 
 I have been fortunate to work with Prof. [Stephen Bach](https://cs.brown.edu/people/sbach/) at Brown, Prof. [Marzyeh Ghassemi](https://www.csail.mit.edu/person/marzyeh-ghassemi) at MIT CSAIL, and the [Personal Robots Group](https://www.media.mit.edu/groups/personal-robots/overview/) at MIT Media Lab, where I began my research journey.
 
