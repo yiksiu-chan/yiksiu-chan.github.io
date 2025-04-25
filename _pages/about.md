@@ -14,7 +14,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Hi! My name is Yik Siu, and I am a first-year CS master’s student at [Brown University](https://www.brown.edu/). My research interests lie in evaluating and interpreting large language models, with a focus on their potentially dangerous capabiltiies and alignment with human values.
 
-I have been fortunate to work with Prof. [Stephen Bach](https://cs.brown.edu/people/sbach/) at Brown, Prof. [Marzyeh Ghassemi](https://www.csail.mit.edu/person/marzyeh-ghassemi) at MIT CSAIL, and the [Personal Robots Group](https://www.media.mit.edu/groups/personal-robots/overview/) at MIT Media Lab, where I began my research journey.
+I have been fortunate to work with Dr. [Atticus Geiger](https://atticusg.github.io/), Prof. [Stephen Bach](https://cs.brown.edu/people/sbach/) at Brown, Prof. [Marzyeh Ghassemi](https://www.csail.mit.edu/person/marzyeh-ghassemi) at MIT, and the [Personal Robots Group](https://www.media.mit.edu/groups/personal-robots/overview/) at MIT Media Lab, where I began my research journey.
 
 Previously, I graduated from Wellesley College in 2024 with a B.A. in Computer Science and Economics. I am grateful to the Brown CS Department and the UWC Davis Scholarship for supporting my studies.
 
