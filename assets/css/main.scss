@@ -23,3 +23,15 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// reduce profile pic size
+.profile img {
+  max-width: 200px;
+  width: auto;
+  height: auto;
+}
+@media (max-width: 576px) {
+  .profile img {
+    max-width: 150px;
+  }
+}
