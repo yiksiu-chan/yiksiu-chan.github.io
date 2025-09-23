@@ -51,4 +51,4 @@ nav_order:
 
 ##### Some places on my list (please give me recs!)
 - The Inca Trail, Peru
-- Tre Cime de Levada Loop, Dolomites, Italy
+- Tre Cime de Levada, Dolomites, Italy
