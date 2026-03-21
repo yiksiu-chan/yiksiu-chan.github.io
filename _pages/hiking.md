@@ -49,6 +49,6 @@ nav_order:
 <br><br>
 
 
-##### Some places on my list (please give me recs!)
-- The Inca Trail, Peru
-- Tre Cime di Lavaredo, Dolomites, Italy
+##### Some places on my list (open to recs!)
+- Inca Trail, Peru
+- The Dolomites, Italy
