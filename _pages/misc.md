@@ -7,12 +7,14 @@ nav_order:
 ---
 
 #### hobbies
-I enjoy hiking and running, see [here](/hiking/) for some amazing places I have hiked. I am also getting into road biking!
+I enjoy hiking and running, see [here](/hiking/) for some amazing places I have hiked. I am also getting into road cycling!
 
 <br>
 
 #### teaching experience
 I also enjoy teaching and have TA'd the following courses:
+At University of Maryland: 
+- CMSC 848R Language Model Interpretability (2026Fa)
 
 At Brown University: 
 - CSCI 1460 Computational Linguistics (2026Sp Head TA)
