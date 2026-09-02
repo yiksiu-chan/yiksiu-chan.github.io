@@ -12,7 +12,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as “selected={true}”
 social: true # includes social icons at the bottom of the page
 ---
-Hi! My name is Yik Siu, and I am a Computer Science master’s student at [Brown University](https://www.brown.edu/). My research interests lie in building reliable and interpretable AI, which I believe requires both rigorous evaluation of models’ external behavior and deeper understanding of their internal states. 
+Hi! My name is Yik Siu, and I am a first-year PhD student in Computer Science at the [University of Maryland, College Park](https://www.cs.umd.edu/). I am co-advised by Professors [Sarah Wiegreffe](https://sarahwie.github.io/) and [Hal Daume III](http://users.umiacs.umd.edu/~hal3//). My research interests lie in developing interpretable and reliable AI, which I believe requires both rigorous evaluation of models’ external behavior and deeper understanding of their internal states. 
 
 I have been fortunate to work with [Atticus Geiger](https://atticusg.github.io/), Prof. [Stephen Bach](https://cs.brown.edu/people/sbach/) and Prof. [Ellie Pavlick](https://cs.brown.edu/people/epavlick/index.html) at Brown, Prof. [Marzyeh Ghassemi](https://healthyml.org/) at MIT, and the [Personal Robots Group](https://www.media.mit.edu/groups/personal-robots/overview/) at MIT Media Lab. I did my B.A. in Computer Science and Economics at Wellesley College, and I am very grateful to the UWC Davis Scholarship and the Brown CS Department for supporting my studies.
 
