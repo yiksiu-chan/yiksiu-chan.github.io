@@ -6,6 +6,19 @@ description:
 nav: false
 nav_order: 
 ---
+##### Everest Base Camp, Nepal
+<div style="display: flex; gap: 10px;">
+  <img src="../assets/img/ebc_1.jpeg" alt="EBC Nepal 1" style="width: 48%; height: 350px; object-fit: cover;">
+  <img src="../assets/img/ebc_2.jpeg" alt="EBC Nepal 2" style="width: 48%; height: 350px; object-fit: cover;">
+</div>
+
+<br>
+
+<div style="display: flex; gap: 10px;">
+  <img src="../assets/img/ebc_3.jpeg" alt="EBC Nepal 3" style="width: 48%; height: 350px; object-fit: cover;">
+  <img src="../assets/img/ebc_4.jpeg" alt="EBC Nepal 4" style="width: 48%; height: 350px; object-fit: cover;">
+</div>
+
 
 ##### Mount Fuji, Japan
 <div style="display: flex; gap: 10px;">
@@ -52,3 +65,4 @@ nav_order:
 ##### Some places on my list (open to recs!)
 - Inca Trail, Peru
 - The Dolomites, Italy
+- Camino de Santiago

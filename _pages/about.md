@@ -6,15 +6,16 @@ subtitle:
 profile:
   align: right
   image: profile_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
     
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as “selected={true}”
 social: true # includes social icons at the bottom of the page
 ---
-Hi! My name is Yik Siu, and I am a first-year PhD student in Computer Science at the [University of Maryland, College Park](https://www.cs.umd.edu/). I am co-advised by Professors [Sarah Wiegreffe](https://sarahwie.github.io/) and [Hal Daume III](http://users.umiacs.umd.edu/~hal3//). My research interests lie in developing interpretable and reliable AI, which I believe requires both rigorous evaluation of models’ external behavior and deeper understanding of their internal states. 
+Hi! My name is Yik Siu, and I am a first-year PhD student in Computer Science at the [University of Maryland, College Park](https://www.cs.umd.edu/). I am co-advised by Professors [Sarah Wiegreffe](https://sarahwie.github.io/) and [Hal Daume III](http://users.umiacs.umd.edu/~hal3//). 
+I am interested in the interpretability and training dynamics of AI systems, specifically language models. 
 
-I have been fortunate to work with [Atticus Geiger](https://atticusg.github.io/), Prof. [Stephen Bach](https://cs.brown.edu/people/sbach/) and Prof. [Ellie Pavlick](https://cs.brown.edu/people/epavlick/index.html) at Brown, Prof. [Marzyeh Ghassemi](https://healthyml.org/) at MIT, and the [Personal Robots Group](https://www.media.mit.edu/groups/personal-robots/overview/) at MIT Media Lab. I did my B.A. in Computer Science and Economics at Wellesley College, and I am very grateful to the UWC Davis Scholarship and the Brown CS Department for supporting my studies.
+I have been fortunate to collaborate with Prof. Yanai Elazar, Atticus Geiger, and Prof. Marzyeh Ghassemi. I did my master's at Brown University, where I worked with Prof. Stephen Bach and Prof. Ellie Pavlick. Before that, I did my bachelor's in Computer Science and Economics at Wellesley College. I am grateful to the UWC Davis Scholarship and the Brown CS Department for supporting my studies.
 
 <!-- Note: **I'm applying for PhD positions for Fall 2026!** I would love to chat about research interests and opportunities. Please feel free to contact me at [yik_siu_chan@brown.edu](yik_siu_chan@brown.edu). -->
 
