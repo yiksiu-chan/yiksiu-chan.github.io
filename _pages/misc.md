@@ -3,7 +3,7 @@ layout: page
 permalink: /misc/
 title: misc
 nav: true
-nav_order: 
+nav_order: 2
 ---
 
 #### hobbies

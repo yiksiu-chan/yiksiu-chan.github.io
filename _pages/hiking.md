@@ -19,6 +19,7 @@ nav_order:
   <img src="../assets/img/ebc_4.jpeg" alt="EBC Nepal 4" style="width: 48%; height: 350px; object-fit: cover;">
 </div>
 
+<br><br>
 
 ##### Mount Fuji, Japan
 <div style="display: flex; gap: 10px;">

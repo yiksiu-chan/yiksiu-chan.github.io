@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 Hi! My name is Yik Siu, and I am a first-year PhD student in Computer Science at the [University of Maryland, College Park](https://www.cs.umd.edu/). I am co-advised by Professors [Sarah Wiegreffe](https://sarahwie.github.io/) and [Hal Daume III](http://users.umiacs.umd.edu/~hal3//). 
 I am interested in the interpretability and training dynamics of AI systems, specifically language models. 
 
-I have been fortunate to collaborate with Prof. Yanai Elazar, Atticus Geiger, and Prof. Marzyeh Ghassemi. I did my master's at Brown University, where I worked with Prof. Stephen Bach and Prof. Ellie Pavlick. Before that, I did my bachelor's in Computer Science and Economics at Wellesley College. I am grateful to the UWC Davis Scholarship and the Brown CS Department for supporting my studies.
+I have been fortunate to collaborate with Yanai Elazar, Atticus Geiger, Marzyeh Ghassemi, and Professors Stephen Bach and Ellie Pavlick at Brown University, where I did my master's. Before that, I did my bachelor's in Computer Science and Economics at Wellesley College. I am grateful to the UWC Davis Scholarship and the Brown CS Department for supporting my studies.
 
 <!-- Note: **I'm applying for PhD positions for Fall 2026!** I would love to chat about research interests and opportunities. Please feel free to contact me at [yik_siu_chan@brown.edu](yik_siu_chan@brown.edu). -->
 
