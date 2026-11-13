@@ -1342,3 +1342,9 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+// Front page (about) section headings: "news", "some papers".
+// Increase margin-top to add more space above them.
+.home-section-title {
+  margin-top: 2rem;
+}
